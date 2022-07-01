@@ -1,5 +1,5 @@
 numpy==1.17.2
-pint==0.19.1
+pint==0.18
 thermo==0.2.21
 fluids==1.0.21
 matplotlib==3.5.2
