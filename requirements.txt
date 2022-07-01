@@ -1,3 +1,1 @@
-numpy
-os
-sys
+numpy 1.23.0
